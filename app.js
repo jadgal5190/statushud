@@ -1,7 +1,7 @@
 var milad = document.createElement('div');
  milad.className = "server-n";
- milad.style.cssText = "display:block !important;position: relative;margin-left: 5.0vw;width: 13.0vw;transition:all ease 0.3s;height: 1.7vw;font-size: 1.1vw;color: white;text-align: center;letter-spacing: 0.5vw;padding-left:0.5vw;  border-radius: 0.3vw 0.3vw 0.3vw 0.3vw;background-color: rgba(0, 0, 0, 0.6);"
- milad.innerHTML = "<span>Milad</span>";
+ milad.style.cssText = "position: relative;margin-left: 6.5vw;width: 10.5vw;transition: all 0.3s ease 0s;height: 1.7vw;font-size: 1.1vw;color: white;text-align: center;letter-spacing: 0.5vw;border-left: 0.2vw solid RGBA(96,125,139,0.7);padding-left: 0.5vw;border-right: 0.2vw solid RGBA(96,125,139,0.7);border-radius: 0.5vw;background-color: RGBA(96,125,139,0.5);display: block !important;"
+ milad.innerHTML = "<span>OverLand</span>";
  document.getElementById('player-header').appendChild(milad);
  
  var milad = document.createElement('div');
