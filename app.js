@@ -7,5 +7,5 @@ var milad = document.createElement('div');
  var milad = document.createElement('div');
  milad.className = "designer";
  milad.innerHTML = "<small>Designed By MiLaD#0125</small>";
- milad.style.cssText = "display:block !important;top: -1.0vw;letter-spacing: 0.05vw;position: absolute;padding: 0 0.2vw;display:block !important;transition:0.3s;background: rgba(0,0,0,0.5);font-size: 0.6vw;border-radius: 0.2vw 0.2vw 0.2vw 0.2vw;color: #fff;right: 2vw;"
+ milad.style.cssText = "display:none !important;top: -1.0vw;letter-spacing: 0.05vw;position: absolute;padding: 0 0.2vw;display:block !important;transition:0.3s;background: rgba(0,0,0,0.5);font-size: 0.6vw;border-radius: 0.2vw 0.2vw 0.2vw 0.2vw;color: #fff;right: 2vw;"
  document.getElementById('player-header').appendChild(milad);
