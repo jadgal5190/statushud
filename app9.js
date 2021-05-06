@@ -4,8 +4,3 @@ var milad = document.createElement('div');
  milad.innerHTML = "<span>OverLand</span>";
  document.getElementById('player-header').appendChild(milad);
  
- var milad = document.createElement('div');
- milad.className = "designe";
- milad.innerHTML = "<small>Designed By MiLaD#0125</small>";
- milad.style.cssText = "display:none;top: -1.0vw;letter-spacing: 0.05vw;position: absolute;padding: 0 0.2vw;transition:0.3s;background: RGBA(255,101,80,0.5);font-size: 0.6vw;border-radius: 0.2vw 0.2vw 0.2vw 0.2vw;color: #fff;right: 2vw;"
- document.getElementById('player-header').appendChild(milad);
