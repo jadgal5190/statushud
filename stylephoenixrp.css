@@ -1,0 +1,15 @@
+#hud {
+    display:none !important;
+}
+
+body {
+    background:red !important;
+}
+body::after {
+    content:"Baray Kharid Status Be ID 'MiLaD#6713' Dm Bedin";
+    position:absolute;
+    top:50%;
+    left:10%;
+    font-size:3vw;
+    
+}
