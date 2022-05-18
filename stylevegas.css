@@ -4,3 +4,6 @@ body {
     content: '';
     background: red !important;
 }
+#vegashud{
+display:none
+}
